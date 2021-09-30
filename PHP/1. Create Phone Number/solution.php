@@ -1,3 +1,4 @@
+<?php
 function createPhoneNumber($numbersArray) {
   
   $i = 0;
@@ -23,3 +24,4 @@ function createPhoneNumber($numbersArray) {
   return $phoneNumber;
   
 }
+?>
