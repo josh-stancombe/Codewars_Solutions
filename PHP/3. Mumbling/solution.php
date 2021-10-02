@@ -1,3 +1,4 @@
+<?php 
 function accum($s) {
     
   $index = 1;
@@ -25,3 +26,4 @@ function accum($s) {
   return $newStr;
   
 }
+?>
